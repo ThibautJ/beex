@@ -1,0 +1,180 @@
+.body{
+	margin-top: 0px;
+	font-family: 'Slabo 27px', serif, georgia, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	margin-bottom: 0px;
+	height: 100%;
+}
+
+#nav-me{
+	background-color: #FFFFff;
+	opacity: 100%;
+}
+
+#nav-me a{
+	color: #4E4E4E;
+}
+
+.space-right{
+	margin-right: 10px;
+}
+
+
+#first-page{
+	height: 650px;
+	background-image: url("images/70H.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	margin-top: 0px;
+	color: #ffffff;
+}
+
+#vision{
+	padding-top: 120px;
+	margin-top: 0px;
+	font-size: 55px;
+	font-weight: 500;
+	text-shadow: 4px 3px 0px #362C30;
+	font-family: 'Slabo 27px', serif;
+}
+
+#mission {
+	font-size: 22px;
+	padding-top: 70px;
+	letter-spacing: +1px;
+	font-weight: thin;
+	text-shadow: 2px 1px 1px #362C30;
+	font-family: 'Open-sans', sans-serif;
+	text-transform: uppercase;
+}
+
+#second-page{
+	height: 650px;
+	background-color: #f6f6f6;
+	background-size: cover;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.06);
+	border-top: 1px solid #a1a1a1;
+	padding-top: 50px;
+}
+
+.force{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+	background-color: #FCFCFC;
+	box-shadow: 10px 10px 5px #252544;
+}
+
+.force-titre{
+	padding-top: 40px;
+	border-top: 1px white solid;
+}
+
+.force-text{
+	padding-bottom: 50px;
+}
+
+.force h3{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: lighter;
+	letter-spacing: +1px;
+}
+
+.force p{
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.force img{
+	padding-top: 20px;
+	display: block;
+	margin: 0 auto;
+	width: 30%;
+	height: auto;
+	background-color: #ffffff;
+	border-radius: 5%;
+}
+
+.force button{
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+.panel-title{
+	background-color: #7792FF;
+}
+
+.panel-heading{
+	padding: 0px;
+}
+
+.first{
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+#footer{
+	background-color: #000000;
+	margin-bottom: 0px;
+	height: 100%;
+	width: 100%;
+	padding-top: 15px;
+	color: white;
+}
+
+#third-page{
+	height: 700px;
+	background-color: #ffffff;
+	background-size: cover;
+	width: 100%;
+	padding-top: 100px;
+	margin-bottom: 100px;
+	color: black;
+	border-top: 1px solid #c1c1c1;
+}
+
+.loupe h3{
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.loupe img{
+	margin-bottom: 50px;
+}
+
+.icon {
+	color: white;
+	font-size: 26px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.facebook:hover{
+	color:#ffffff;
+}
+
+.twitter:hover{
+	color: #ffffff;
+}
+
+.product-hunt:hover{
+	color:#ffffff;
+}
+
+.facebook{
+	color:#3b5998;
+}
+
+.twitter{
+	color: #379EC4;
+}
+
+.product-hunt{
+	color:#EC4D1F;
+}
+
+element.style{
+	color: white;
+}
